@@ -138,6 +138,9 @@ df.groupby('Product_ID')['Orders'].sum().nlargest(10).sort_values(ascending=Fals
 Summary of Findings:
 
 Demographics: The most frequent buyers are married women aged 26-35.
+
 Location: The top buying states are Uttar Pradesh, Maharashtra, and Karnataka.
+
 Occupation: Buyers are primarily from the IT, Healthcare, and Aviation sectors.
+
 Product Preference: Popular product categories are Food, Clothing, and Electronics.
